@@ -15,7 +15,7 @@ export default function App() {
           href="https://github.com/KellyW-coder/react-weatherapp-2021"
           target="_blank"
         >
-          open-sourced on GitHub here.
+          open-sourced on GitHub
         </a>
       </footer>
     </div>
